@@ -1,0 +1,28 @@
+{
+  "name": "tw2113/wpadminnotify",
+  "description": "",
+  "type": "library",
+  "keywords": [
+    "WordPress",
+    "notifications"
+  ],
+  "homepage": "https://michaelbox.net",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Beckwith",
+      "email": "tw2113@gmail.com",
+      "homepage": "https://michaelbox.net"
+    }
+  ],
+  "require": {
+    "php": "^5.3 || ^7.0"
+  },
+  "require-dev": {},
+  "suggest": {},
+  "autoload": {
+    "psr-4": {
+      "tw2113\\wpadminnotify\\": "src/"
+    }
+  }
+}
